@@ -1,3 +1,3 @@
-React Hook Form Exercise
+React Hook Form 
 
-Used strict mode 
+
